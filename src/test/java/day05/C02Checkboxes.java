@@ -58,6 +58,4 @@ Then verify that checkbox 1 is checked.
 
     }
 
-
-
 }
