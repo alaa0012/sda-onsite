@@ -3,10 +3,8 @@ package day02;
 import org.junit.Test;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.safari.SafariDriver;
 
-public class C01JUnit {
+public class C02JUnit {
         /*
      ******JUNIT*****
 " The most basic framework with Java can be created using the JUnit framework.

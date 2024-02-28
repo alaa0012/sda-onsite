@@ -57,5 +57,4 @@ Then verify that checkbox 1 is checked.
         Assert.assertTrue(checkboxes.get(1).isSelected());
 
     }
-
 }
