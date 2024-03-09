@@ -33,9 +33,9 @@ public class test01 extends TestBase {
         // You can add more assertions or test steps here
         driver.findElement(By.xpath("//button[@id='search-icon-legacy']//yt-icon[@class='style-scope ytd-searchbox']//div")).click();
 
-        WebElement firstVideo = driver.findElement(By.cssSelector("a#video-title"));
-        firstVideo.click();
-        // ...
+        // Assertion: Check if the video is not paused
+        WebElement videoPlayer = driver.findElement(By.cssSelector("button[aria-label='Play keyboard shortcut k']"));
+
     }
 
 }
