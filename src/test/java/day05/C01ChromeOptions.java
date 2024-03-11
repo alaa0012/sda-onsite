@@ -10,7 +10,7 @@ public class C01ChromeOptions {
     /*
 ChromeOptions Class
 
-It is a concept used in Selenium WebDriver to modify various properties of the Chrome driver.
+It is a concept used in Selenium WebDriver to modify various log4j.properties of the Chrome driver.
 start-maximized: Opens Chrome in maximize mode.
 incognito: Opens Chrome in incognito mode.
 headless: Runs Chrome in headless mode (without displaying).
